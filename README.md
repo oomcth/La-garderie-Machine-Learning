@@ -14,7 +14,7 @@ Léonard Vimont \
 Thomas Vinet \
 Matthis Scheffler
 
-Notre sujet : 2. Combien de personnages de chaque sexe interviennent dans une séquence audio donnée ? \
+Notre sujet : 2. Combien de personnages de chaque sexe interviennent dans une séquence audio donnée ? 
 
 1. Segmentation et regroupement en locuteurs -> final.py
 2. Identification du sexe du locuteur 
