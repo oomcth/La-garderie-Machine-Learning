@@ -1,4 +1,4 @@
-# La-garderie
+# La-garderie (Deep Learning)
 # Notre sujet : 2. Combien de personnages de chaque sexe interviennent dans une séquence audio donnée ? 
 
 Liens pour les données :
